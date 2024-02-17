@@ -168,5 +168,14 @@
             },
             "blockGap":"4rem"
         }
-    }
+    },
+    "customTemplates": [
+        {
+            "name": "full-width-page",
+            "title": "full width page",
+            "postTypes": [
+                "page"
+            ]
+        }
+    ]
 }
